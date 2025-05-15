@@ -20,7 +20,7 @@ A simple and responsive notes-taking web application built with **HTML**, **CSS*
 
 If hosted, add the link here:
 
-https://github.com/Ghansham07/NotesApp/
+ https://ghansham07.github.io/NotesApp/
 
 ---
 
